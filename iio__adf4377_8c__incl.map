@@ -1,0 +1,13 @@
+<map id="drivers/frequency/adf4377/iio_adf4377.c" name="drivers/frequency/adf4377/iio_adf4377.c">
+<area shape="rect" id="node1" title="Implementation of ADF4377 IIO Driver." alt="" coords="98,5,291,47"/>
+<area shape="rect" id="node2" href="$iio__adf4377_8h.html" title="Header file of adf4377 IIO." alt="" coords="78,95,189,121"/>
+<area shape="rect" id="node7" href="$adf4377_8h.html" title="Header file for adf4377 Driver." alt="" coords="226,95,313,121"/>
+<area shape="rect" id="node3" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="41,169,135,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="112,244,195,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="314,244,385,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,244,88,271"/>
+<area shape="rect" id="node8" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="340,169,393,196"/>
+<area shape="rect" id="node9" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="418,169,481,196"/>
+<area shape="rect" id="node10" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="210,169,265,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="219,244,290,271"/>
+</map>

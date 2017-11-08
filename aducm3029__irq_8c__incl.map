@@ -1,0 +1,19 @@
+<map id="drivers/platform/aducm3029/aducm3029_irq.c" name="drivers/platform/aducm3029/aducm3029_irq.c">
+<area shape="rect" id="node1" title="Implementation of External IRQ driver for ADuCM302x." alt="" coords="525,5,732,47"/>
+<area shape="rect" id="node2" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="543,169,594,196"/>
+<area shape="rect" id="node4" href="$aducm3029_2irq__extra_8h.html" title="Header file of IRQ driver for ADuCM302x." alt="" coords="432,95,524,121"/>
+<area shape="rect" id="node7" href="$error_8h.html" title="Error codes definition." alt="" coords="7,169,71,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="669,169,740,196"/>
+<area shape="rect" id="node10" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="936,169,996,196"/>
+<area shape="rect" id="node11" href="$aducm3029_2uart__extra_8h.html" title="Header file of UART driver for ADuCM302x." alt="" coords="235,95,337,121"/>
+<area shape="rect" id="node12" href="$rtc_8h.html" title="Header of the RTC interface." alt="" coords="1094,95,1145,121"/>
+<area shape="rect" id="node13" href="$rtc__extra_8h.html" title="Header file of RTC driver for ADuCM302x." alt="" coords="732,95,824,121"/>
+<area shape="rect" id="node15" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="112,95,175,121"/>
+<area shape="rect" id="node16" title=" " alt="" coords="899,95,1070,121"/>
+<area shape="rect" id="node17" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="601,95,656,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="533,244,604,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="197,169,361,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="437,169,519,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,244,73,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="764,169,912,196"/>
+</map>

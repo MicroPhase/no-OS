@@ -1,0 +1,13 @@
+<map id="drivers/platform/aducm3029/flash.c" name="drivers/platform/aducm3029/flash.c">
+<area shape="rect" id="node1" title="Implementation of the flash driver for ADuCM302x." alt="" coords="482,5,689,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,181,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="206,95,378,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="402,95,473,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="497,95,575,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="599,95,670,121"/>
+<area shape="rect" id="node7" href="$flash_8h.html" title="Header file for flash controller driver." alt="" coords="694,95,759,121"/>
+<area shape="rect" id="node9" href="$flash__extra_8h.html" title="Header file of the flash driver for ADuCM302x." alt="" coords="784,95,891,121"/>
+<area shape="rect" id="node10" href="$error_8h.html" title="Error codes definition." alt="" coords="915,95,979,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="691,169,762,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="913,169,981,196"/>
+</map>

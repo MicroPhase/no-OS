@@ -1,0 +1,9 @@
+<map id="drivers/frequency/adf4377/adf4377.h" name="drivers/frequency/adf4377/adf4377.h">
+<area shape="rect" id="node1" title="Header file for adf4377 Driver." alt="" coords="73,5,267,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="77,169,148,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="273,169,355,196"/>
+<area shape="rect" id="node4" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="143,95,197,121"/>
+<area shape="rect" id="node5" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="5,95,68,121"/>
+<area shape="rect" id="node6" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="221,95,276,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="177,169,248,196"/>
+</map>

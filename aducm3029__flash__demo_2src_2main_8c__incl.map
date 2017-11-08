@@ -1,0 +1,13 @@
+<map id="projects/aducm3029_flash_demo/src/main.c" name="projects/aducm3029_flash_demo/src/main.c">
+<area shape="rect" id="node1" title="Implementation of Main Function." alt="" coords="355,5,530,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,72,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,213,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="237,95,355,121"/>
+<area shape="rect" id="node5" href="$flash_8h.html" title="Header file for flash controller driver." alt="" coords="359,169,425,196"/>
+<area shape="rect" id="node7" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="449,169,500,196"/>
+<area shape="rect" id="node8" href="$platform__init_8h.html" title="ADuCM3029 platform initialization header." alt="" coords="481,95,599,121"/>
+<area shape="rect" id="node9" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="607,169,667,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="675,95,776,121"/>
+<area shape="rect" id="node11" href="$uart__stdio_8h.html" title="Header file for UART driver stdout/stdin redirection." alt="" coords="800,95,899,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="439,244,510,271"/>
+</map>

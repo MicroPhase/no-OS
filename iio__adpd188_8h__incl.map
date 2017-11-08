@@ -1,0 +1,13 @@
+<map id="drivers/photo&#45;electronic/adpd188/iio_adpd188.h" name="drivers/photo&#45;electronic/adpd188/iio_adpd188.h">
+<area shape="rect" id="node1" title="Header of the ADPD188 IIO driver." alt="" coords="193,5,370,47"/>
+<area shape="rect" id="node2" href="$adpd188_8h.html" title="ADPD188 driver header file." alt="" coords="171,95,261,121"/>
+<area shape="rect" id="node8" href="$iio_8h.html" title="Header file of iio." alt="" coords="355,95,405,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="187,244,258,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="296,244,379,271"/>
+<area shape="rect" id="node5" href="$i2c_8h.html" title="Header file of I2C Interface." alt="" coords="221,169,275,196"/>
+<area shape="rect" id="node6" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="5,169,59,196"/>
+<area shape="rect" id="node7" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="83,169,146,196"/>
+<area shape="rect" id="node9" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="435,169,528,196"/>
+<area shape="rect" id="node11" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="350,169,410,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="440,244,523,271"/>
+</map>

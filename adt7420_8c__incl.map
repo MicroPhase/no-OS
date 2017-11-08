@@ -1,0 +1,12 @@
+<map id="drivers/temperature/adt7420/adt7420.c" name="drivers/temperature/adt7420/adt7420.c">
+<area shape="rect" id="node1" title="Implementation of ADT7420 Driver." alt="" coords="71,5,223,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="38,244,109,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="276,244,346,271"/>
+<area shape="rect" id="node4" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="98,169,151,196"/>
+<area shape="rect" id="node5" href="$i2c_8h.html" title="Header file of I2C Interface." alt="" coords="20,169,74,196"/>
+<area shape="rect" id="node6" href="$error_8h.html" title="Error codes definition." alt="" coords="358,95,422,121"/>
+<area shape="rect" id="node8" href="$adt7420_8h.html" title="Header file of ADT7420 Driver." alt="" coords="145,95,232,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="357,169,425,196"/>
+<area shape="rect" id="node9" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="226,169,281,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="154,244,236,271"/>
+</map>

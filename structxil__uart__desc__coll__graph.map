@@ -1,0 +1,6 @@
+<map id="xil_uart_desc" name="xil_uart_desc">
+<area shape="rect" id="node1" title="Xilinx platform specific UART descriptor." alt="" coords="80,184,188,211"/>
+<area shape="rect" id="node2" href="$structirq__ctrl__desc.html" title=" " alt="" coords="19,95,123,121"/>
+<area shape="rect" id="node3" href="$structirq__platform__ops.html" title="Structure holding IRQ function pointers that point to the platform specific function." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node4" href="$structfifo__element.html" title="Structure holding the fifo element parameters." alt="" coords="147,95,251,121"/>
+</map>

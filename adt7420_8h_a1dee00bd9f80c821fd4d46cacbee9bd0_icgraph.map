@@ -1,0 +1,4 @@
+<map id="adt7420_reset" name="adt7420_reset">
+<area shape="rect" id="node1" title="Resets the SPI or I2C inteface for the ADT7420/ADT7320." alt="" coords="156,5,271,32"/>
+<area shape="rect" id="node2" href="$adt7420_8h.html#a002fbfa6b776f9d63d6e394710c6fc49" title="Initializes the communication peripheral and checks if the device is present." alt="" coords="5,5,108,32"/>
+</map>
